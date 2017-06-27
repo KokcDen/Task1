@@ -1,0 +1,4 @@
+var number = prompt ('Введите любое целое число?', '');
+if (number > '0') alert ('1');
+if (number < '0') alert ('-1');
+if (number == '0') alert ('0');
